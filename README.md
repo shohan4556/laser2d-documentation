@@ -3,7 +3,7 @@ LASER 2D
 
 **[Download](https://assetstore.unity.com/packages/vfx/particles/laser2d-81830)**
 
-[web version of the doc](https://shohan4556.github.io/Laser2D/) - Recommended.
+[[web version of the doc](https://shohan4556.github.io/Laser2D/)](https://shohan4556.github.io/laser2d-documentation/) - Recommended.
 
 ```
  Verssion : 0.02  
