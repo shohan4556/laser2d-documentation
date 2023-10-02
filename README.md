@@ -6,7 +6,7 @@ LASER 2D
 [web version of the doc](https://shohan4556.github.io/laser2d-documentation/) - Recommended.
 
 ```
- Verssion : 0.02  
+ Verssion : 0.06 
  Updated : December 2017 
  Developer : Shohanur Rahaman
  Contact : shohan4556@gmail.com 
